@@ -1,0 +1,3 @@
+export const LOAD_USER_START = "LOAD_USER_START";
+export const LOAD_USER_SUCESS = "LOAD_USER_SUCESS";
+export const LOAD_USER_ERROR = "LOAD_USER_ERROR";
