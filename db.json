@@ -6,6 +6,27 @@
       "email": "james@gmail.com",
       "phone": "5234125124",
       "address": "USA"
+    },
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "123012321",
+      "address": "Portal",
+      "id": 2
+    },
+    {
+      "name": "hieuphan4526",
+      "email": "hieuphan@gmail.com",
+      "phone": "01506422",
+      "address": "VietNam",
+      "id": 4
+    },
+    {
+      "name": "Misa",
+      "email": "Misa@gmail.com",
+      "phone": "123124",
+      "address": "Hugrary",
+      "id": 5
     }
   ]
 }
